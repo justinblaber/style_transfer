@@ -1,4 +1,2 @@
-# nbdev template
-
-Use this template to more easily create your nbdev project.
-
+# style_transfer
+Test out implementation of perceptual loss paper
