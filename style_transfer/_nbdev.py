@@ -4,9 +4,12 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"torch2np": "data.ipynb",
          "denorm": "data.ipynb",
+         "ImgFolderPipeline": "data.ipynb",
+         "TFRecordPipeline": "data.ipynb",
          "SubsetSampler": "data.ipynb",
          "SubsetDataloader": "data.ipynb",
          "ImgCSVDataset": "data.ipynb",
+         "DaliDataloader": "data.ipynb",
          "leaf_modules": "models.ipynb",
          "gram_matrix": "models.ipynb",
          "get_in_channels": "models.ipynb",
