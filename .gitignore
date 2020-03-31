@@ -141,3 +141,4 @@ checklink/cookies.txt
 
 data/
 *.mp4
+*.pth
