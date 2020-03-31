@@ -3,7 +3,7 @@ This project is an implementation of "Perceptual Losses for Real-Time Style Tran
 
 ![](stream.gif) ![](https://i.imgur.com/YqsqLiE.jpg)
 
-The images from my camera are gray-scale, so it may have looked even cooler with color images. 
+The images from my camera are monochrome, so it may have looked even cooler with color images. 
 
 In addition, image based style transfer ("A Neural Algorithm of Artistic Style") was also done:
 
